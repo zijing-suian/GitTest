@@ -8,5 +8,6 @@ public class Git {
         System.out.println("hot-fix 修改!");
         System.out.println("master test!");
         System.out.println("hot-fix test!");
+        System.out.println("本地库更新了!");
     }
 }
