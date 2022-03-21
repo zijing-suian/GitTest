@@ -9,5 +9,6 @@ public class Git {
         System.out.println("master test!");
         System.out.println("hot-fix test!");
         System.out.println("本地库更新了!");
+        System.out.println("远程库更新了!");
     }
 }
