@@ -7,5 +7,6 @@ public class Git {
         System.out.println("再次修改!");
         System.out.println("hot-fix 修改!");
         System.out.println("master test!");
+        System.out.println("hot-fix test!");
     }
 }
